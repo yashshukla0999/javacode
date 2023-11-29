@@ -1,0 +1,5 @@
+package com.example.blog.exeptions;
+
+public class ResourceNotFoundException {
+
+}
